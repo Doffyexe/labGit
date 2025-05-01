@@ -3,4 +3,6 @@ Laboraotio de Github
 // Fecha: 2023-10-04
 
   public class realizado_EN_Githu{
+  String Campo; 
+  
 }
